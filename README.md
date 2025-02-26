@@ -16,4 +16,4 @@ Daftar perintah GiT
 -  git merge (branch-name)  → Menggabungkan branch ke main.
 -  git push origin main  → Mengirim perubahan ke GitHub.
 
-*hapus tutup/buka kurung
+*ket : hapus tutup/buka kurung dan ganti sesuai dengan petunjuk
